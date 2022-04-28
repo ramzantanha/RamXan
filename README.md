@@ -13,5 +13,5 @@ pip install npm
 pip install future
 rm -rf RamXan
 git clone https://github.com/ramzantanha/RamXan
-cd TRT
+cd RamXan
 python RamXan.py
